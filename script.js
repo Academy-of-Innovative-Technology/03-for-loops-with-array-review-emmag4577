@@ -50,3 +50,5 @@ function updateArrayDisplay() {
   }
 
   updateArrayDisplay();
+
+  //complete
